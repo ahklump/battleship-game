@@ -1,0 +1,100 @@
+#logo {
+    max-height: 125px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+caption {
+    font-size:30px;
+    font-weight:bold;
+    text-align:center;
+}
+
+th {
+    font-size:25px;
+    font-weight:bold;
+    height: 35px;
+    width: 35px;
+    text-align:center;
+}
+
+td {
+    border: 2px solid black;
+    font-size:25px;
+    height: 35px;
+    width: 35px;
+}
+
+#dashStatus {
+    font-size: 30px;
+    font-weight: bold;
+    text-align:center;
+    float: center;
+    clear: both;
+}
+
+#board {
+    border: 2px solid black;
+    background-color:cadetblue;
+    float: left;
+}
+
+#hits {
+    border: 2px solid black;
+    background-color:cadetblue;
+    float: right;
+    display: none;
+}
+
+#divTables {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    display: none;
+}
+
+#dashboard {
+    margin-left: auto;
+    margin-right: auto;
+    display: none;
+    clear: both;
+}
+
+#startBtn {
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#waiting {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#instructions {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#restartBtn {
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    display: none;
+}
+
+#divPosBtns button {
+    width: 65px;
+}
+
+button {
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+select {
+    font-size: 15px;
+}
